@@ -32,7 +32,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deannreid&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&layout=compact&langs_count=10)](https://github.com/deannreid)
 [![DeanReids's github stats](https://github-readme-stats.vercel.app/api?username=deannreid&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true)](https://github.com/deannreid/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=deannreid&no-frame=true&no-bg=true&margin-w=20&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **deannreid/deannreid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

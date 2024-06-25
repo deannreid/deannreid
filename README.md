@@ -20,7 +20,6 @@
 **Socials**
 
 [![Link - LinkedIn](https://img.shields.io/badge/Social-LinkedIn-red?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dean-reid/)
-[![Link - Facebook](https://img.shields.io/badge/Social-Facebook-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/DeanDReid/)
 [![Link - Discord](https://img.shields.io/badge/Social-Discord-red?style=for-the-badge&logo=discord)](https://discord.gg/mN4tSk5n2R)
 
 **Other Links**
